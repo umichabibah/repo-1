@@ -1,5 +1,8 @@
 WO-APP
 1.Modul Cathering
+	-API cathering
+	-Mockup cathering
+	-UI cathering
 2.Modul Hiburan
 3.Modul Property
 4.Modul Transaksi
