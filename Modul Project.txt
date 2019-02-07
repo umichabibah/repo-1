@@ -4,8 +4,20 @@ WO-APP
 	-Mockup cathering
 	-UI cathering
 2.Modul Hiburan
+	-API hiburan
+	-Mockup hiburan
+	-UI hiburan
+	-tambah data hiburan
 3.Modul Property
+	-API property
+	-Mockup property
+	-UI property
+	-tambah data property
 4.Modul Transaksi
+	-API transaksi
+	-Mockup transaksi
+	-UI transaksi
+	-tambah data transaksi
 
 Langkah langkah ngepull dan ngepush di git hub
 .buka google
