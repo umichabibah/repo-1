@@ -6,3 +6,21 @@ WO-APP
 2.Modul Hiburan
 3.Modul Property
 4.Modul Transaksi
+
+Langkah langkah ngepull dan ngepush di git hub
+.buka google
+.login github
+.masuk ke repository yang sudah disediakan
+.copy alamat/Clone
+.kemudian bikin folder baru
+.masuk ke folder baru, 
+.kemudian klik kanan pilih gith bush hare
+.ketikan git clone, kemudian paste alamat clone yang suadah dicopy
+.kemudian muncul folder baru
+.masuk, dan edit file txt
+.kemudian save
+.klik kanan,pilih git bush hare
+.ketikan git commit am "comentar"
+.git pull origin master
+.git push origin master
+.finish   
